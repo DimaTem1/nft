@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;700&display=swap');
+body{
+    margin: 0;
+}
+.navbar__info{
+    display: flex;
+    align-items: center;
+}
+.navbar__button {
+    font-family: 'Open Sans';
+    font-weight: 700;
+font-size: 18px;
+color: #FFFFFF;
+border: #F7859C 1px solid;
+background-color: #F7859C;
+padding: 8px 26px 11px 29px;
+border-radius: 12px;
+text-decoration: none;
+}
+.navbar__button:hover{
+    background-color:#ec3f62 ;
+}
+.navbar__text{
+    font-family: 'Open Sans';
+    font-weight: 700;
+font-size: 18px;
+color: #222222;
+text-decoration: none;
+margin-right: 40px;
+transition: color  .2s;
+}
+.navbar__text:hover{
+    color: #eb9a4e;
+    border-bottom: 1px solid #eb9a4e;
+}
+.header__block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 28px;
+}
+.container{
+    max-width: 1440px;
+    margin: 0px auto;
+}
+.starter__img {
+    display: flex;
+    position: absolute;
+}
+.circle__1{
+    margin-left: 124.5px;
+    position: relative;
+    margin-top: 0px;
+}
+.circle__2 {
+    margin-left: 142px;
+    position: relative;
+}
+.circle__3{
+    margin-left: 166.68px;
+    position: relative;
+    margin-top: 60px;
+}
+h1{
+    font-family: 'Open Sans';
+    font-weight: 700;
+font-size: 18px;
+color: #222222;
+text-align: center;
+letter-spacing: 0px;
+}
+h2 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+font-size: 97px;
+color: #222222;
+width: 550px;
+text-align: center;
+}
+.text__text{
+    font-family: 'Open Sans';
+    width: 429px;
+    font-weight: 400;
+font-size: 18px;
+text-align: center;
+color: #404756;
+margin-top: 20px;
+}
+.starter__button{
+    font-family: 'Open Sans';
+    font-weight: 700;
+font-size: 18px;
+color: #FFFFFF;
+border: #F7859C 1px solid;
+background-color: #F7859C;
+padding: 8px 26px 11px 29px;
+border-radius: 12px;
+text-decoration: none;
+text-align: center;
+max-width: 100px;
+z-index: 3;
+}
+.starter__button:hover{
+    background-color:#ec3f62 ;
+}
+.starter__title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.h1__h1 {
+    margin-top: 90px;
+    margin-bottom: 0px;
+    
+}
+.h2__h2 {
+    margin-top:0;
+    margin-bottom:0;
+}
+.starter__button {
+    margin-top: 29px;
+}
+.subtitle__starter {
+    margin-top: -30px;
+    margin-bottom: 0px;
+}
+.starter__circle {
+width: 100%;
+margin-top: -200px;
+}
+.circle___2{
+    margin-left: 360px;
+    margin-bottom: 110px;
+}
+.for__men {
+    position: relative;
+    margin-top: -620px;
+    display: flex;
+    gap: 603px;
+}
+.collection {
+    margin-top: 211px;
+    margin-bottom: 0px;
+    position: relative;
+}
+h3 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+font-size: 65px;
+color: #222222;
+text-align: center;
+margin-top: 4px;
+position: relative;
+}
+.ccircle {
+    margin-top: -10px;
+    margin-left: 665px;
+    position: absolute;
+}
+h4 {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    line-height: 22px;
+    color: #222222;
+    margin-bottom: 0px;
+}
+.h4 {
+    margin-top: 70px;
+}
+.intro__title__text {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #404756;
+    width: 332px;
+    border-bottom: solid 1px rgba(64, 71, 86, 0.6);
+}
+.intro__title {
+    margin-left: 230px;
+}
+.intro__block {
+    display: flex;
+    gap: 162px ;
+}
+.last{
+    position: absolute;
+    margin-top: -15px;
+    margin-left: -15px;
+}
+h5 {
+    font-weight: 700;
+font-size: 18px;
+color: #222222;
+position: relative;
+}
+.container2 {
+    max-width: 1440px;
+    margin: 0px auto;
+    background-color:#FBF1E6; 
+    margin-top: -35px
+}
+hr {
+    margin-top: 78px;
+   color: rgba(64, 71, 86, 0.6);
+}
+h6 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+font-size: 36px;
+color: #222222;
+margin-bottom: 30px ;
+}
+.navbar__ {
+    margin-top: 0px;
+    display: flex;
+   height: 20px;
+   gap: 32px;
+    align-items: center;
+}
+.navbar__text_ {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #404756;
+width: 336px;
+}
+.about__content {
+    margin-left: 230px;
+}
+.h3 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+font-size: 65px;
+color: #222222;
+}
+.about__block {
+    display: flex;
+    gap: 226.67px;
+    margin-top: 73px ;
+}
+.last {
+    margin-bottom: 0px;
+}
+.roadmap {
+    margin-top: 100px;
+}
+.releases{
+    position: absolute;
+    margin-left: 667px;
+    margin-top: -10px;
+}
+h1 {
+    position: relative;
+}
+.h1 {
+    margin-bottom: -5px;
+}
+.domalak {
+    margin-top: 70px;
+    position: absolute;
+    margin-left: 887px;
+    z-index: 2;
+}
+.nolik {
+    position: absolute;
+    margin-top: 206px;
+    margin-left: 230px;
+}
+.oval  {
+    position: absolute;
+    margin-left: 440px;
+    margin-top: 40px;
+}
+.q {
+    font-family: 'Montserrat';
+    font-weight: 700;
+font-size: 18px;
+color: #222222;
+position: relative;
+margin-bottom: 0px;
+}
+.community {
+    position: relative;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+color: #222222;
+margin-top: 0px;
+}
+.textt {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #404756;
+width: 336px;
+}
+.roadmap__community{
+    position: relative;
+    margin-left: 540px;
+    padding-top: 140px;
+}
+.roadmap__info {
+    margin-bottom: 200px;
+}
+.roadmap__info:last-child{
+    margin-bottom: 0px;
+}
+.flex {
+    display: flex;
+    gap: 154px ;
+    margin-bottom: -200px;
+}
+.footer {
+    margin-top: 200px;
+}
+.footer__background {
+    margin-top: -20px;
+    background-color: #FDDBE2;
+    position: relative;
+    height: 1400px;
+}
+.team {
+    padding-top: 200px;
+    position: relative;
+    z-index: 2;
+}
+.teamm {
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 678px;
+}
+.teammates {
+    text-align: center;
+}
